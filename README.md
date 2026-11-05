@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech I work with
 
-**Languages:** Python · TypeScript · SQL
-**AI / LLM:** Claude API · Gemini API · prompt design · structured outputs · LLM guardrails
-**Web & backend:** FastAPI · Next.js · React · Prisma · PostgreSQL
-**Testing & tools:** pytest · Git · GitHub Actions · Docker · Vercel · Netlify · Claude Code
+- **Languages:** Python · TypeScript · SQL
+- **AI / LLM:** Claude API · Gemini API · prompt design · structured outputs · LLM guardrails
+- **Web & backend:** FastAPI · Next.js · React · Prisma · PostgreSQL
+- **Testing & tools:** pytest · Git · GitHub Actions · Docker · Vercel · Netlify · Claude Code
