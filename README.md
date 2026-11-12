@@ -5,6 +5,7 @@
 - 💼 IT Trainee (SDE-1) at an e-commerce company in Jaipur, building internal tools that replace manual, spreadsheet-based work
 - 🤖 Interested in: workflow automation, LLM applications with guardrails, and data pipelines
 - 🎓 Graduating June 2027 · focused on AI / automation engineering
+- 🌐 Portfolio: [khushijaiswal08.github.io](https://khushijaiswal08.github.io)
 - 📫 Reach me: khushijaiswal0005@gmail.com · [LinkedIn](https://www.linkedin.com/in/khushijaiswal08)
 
 ---
